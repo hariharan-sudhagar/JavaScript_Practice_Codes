@@ -1,0 +1,6 @@
+These are my javascript practice codes where majorly focused on sytax and fundamental stuffs and some data structres like
+(map,set,array,strings).
+Soon i will post another repo or in this same repo with advanced concepts like CALLBACK , CALLBACK HELL, HOISTING, CLOSURES,PROMISES, ASYNC WAIT
+and Asyschronus Programming...
+
+For this Practice sessions i used w3schools and some articleas...
